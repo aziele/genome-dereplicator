@@ -1,0 +1,5 @@
+1, 2, and 3 are the same sequence, except that 2 and 3 are fragmented.
+4 and 5 are <= 1% divergent, and 4 is fragmented while 5 is complete.
+6 and 7 are <= 2% divergent, and 6 is fragmented while 7 is complete.
+8 and 9 are <= 5% divergent, and 8 complete while 9 is fragmented
+10 is not similar to any other sequence

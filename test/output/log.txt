@@ -1,0 +1,8 @@
+2022-07-19 14:10:36,987 [INFO] ANI: 0.95, k: 21, k_fraction: 1, batch_size: 50000, threads: 4
+2022-07-19 14:10:36,987 [INFO] Input genomes: 10
+2022-07-19 14:10:36,987 [INFO] Calculating N50s for input genomes
+2022-07-19 14:10:37,023 [INFO] Clustering 10 genomes
+2022-07-19 14:10:37,950 [INFO] Clusters: 5 (10 genomes)
+2022-07-19 14:10:37,950 [INFO] Saving clusters to test/output/clusters.txt
+2022-07-19 14:10:37,951 [INFO] Copying representative genome per cluster to test/output/fasta
+2022-07-19 14:10:37,954 [INFO] Log file: test/output/log.txt
